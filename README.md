@@ -226,7 +226,7 @@ Kaggle 문제 풀이 설명
 - 훌륭한 논문 리스트 : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 - online CNN 시각화 자료 : https://poloclub.github.io/cnn-explainer/
 - GradCAM : [grad_cam.ipynb](material/deep_learning/grad_cam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/grad_cam.ipynb)
-
+- AUC 그리기 :  [draw_auc_with_mnist_cnn.ipynb](material/deep_learning/draw_auc_with_mnist_cnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/draw_auc_with_mnist_cnn.ipynb)
 <br>
 
 # 딥러닝 활용을 위한 지식 구조
